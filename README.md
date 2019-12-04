@@ -1,4 +1,5 @@
-# wordpress
+# Chef LAMP Assignment
 
-TODO: Enter the cookbook description here.
+Given Vagrant and Chef, create a Vagrant file which creates two virtual machines, and an Chef cookbook deploys functional LAMP stack on an Centos VM using Chef.
 
+Linux Distro: Centos
